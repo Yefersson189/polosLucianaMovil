@@ -1,0 +1,29 @@
+// {
+//   "project_info": {
+//     "project_number": "157729172946",
+//     "project_id": "senaworkmovil3",
+//     "storage_bucket": "senaworkmovil3.appspot.com"
+//   },
+//   "client": [
+//     {
+//       "client_info": {
+//         "mobilesdk_app_id": "1:157729172946:android:f8d2dd19f44309ef902c0b",
+//         "android_client_info": {
+//           "package_name": "com.company.senaworkmovil"
+//         }
+//       },
+//       "oauth_client": [],
+//       "api_key": [
+//         {
+//           "current_key": "AIzaSyDpn1hTHOQ4iTACsw9hhwgpwfFqsMyULBg"
+//         }
+//       ],
+//       "services": {
+//         "appinvite_service": {
+//           "other_platform_oauth_client": []
+//         }
+//       }
+//     }
+//   ],
+//   "configuration_version": "1"
+// }

@@ -1,0 +1,22 @@
+{
+  "name": "poloslucianamovil",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo": "^51.0.32",
+    "metro": "^0.80.12",
+    "react-native": "^0.75.3",
+    "react-native-web": "~0.19.10",
+    "react-dom": "18.2.0",
+    "@expo/metro-runtime": "~3.2.3",
+    "typescript": "~5.3.3",
+    "@types/react": "~18.2.79"
+  }
+}
